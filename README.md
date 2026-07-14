@@ -1,4 +1,21 @@
-# AW-Projects
+# Hi, I'm @aw0x. Welcome to AW-Projects
+
+> Building modern software, quantitative finance, AI-driven automation systems, content automation, and open-source tools.
+
+<p align="center">
+
+<a href="https://github.com/aw0x">
+<img src="https://img.shields.io/badge/GitHub-aw0x-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge">
+</a>
+
+</p>
+
+---
+
 <details open>
 <summary>
 
